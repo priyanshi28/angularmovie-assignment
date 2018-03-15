@@ -1,0 +1,20 @@
+/* jumbotron  */
+.jumbotron{
+ margin:30px;
+}
+/*junbotron heading */
+.heading{
+	text-transform:uppercase;
+	font-weight:bold;
+	font-family: "Times New Roman", Times, serif;	
+}
+/*card title */
+.card-title
+{
+	font-weight:bold;
+	text-transform:uppercase;
+}
+/*card design */
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

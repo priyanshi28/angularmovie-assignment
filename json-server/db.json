@@ -1,0 +1,99 @@
+{
+  "movies": [
+    {
+      "vote_count": 9,
+      "id": 20365,
+      "video": false,
+      "vote_average": 3.7,
+      "title": "Hello",
+      "popularity": 2.197136,
+      "poster_path": "/lzldL8ZBARt0vt6FdY4ahmIyXRD.jpg",
+      "original_language": "en",
+      "original_title": "Hello",
+      "genre_ids": [
+        18,
+        10769
+      ],
+      "backdrop_path": "/hkOA2f11NYjkNZBowK1zefaoo01.jpg",
+      "adult": false,
+      "overview": "Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence of family affection, pressures of a patriarchal set up, and the work environment of a globalized office. Shyam is losing his girl friend because his career is going nowhere as he trudges his way around in a call center. His girl friend, Priyanka, is also an agent like him at the call center who is about to be snatched by an NRI technogeek. There is also the aspiring model, Esha, who is hoping for the break that seems to be always already eluding her and the man about town, Vroom, who is into well, things. The housewife, Radhika, who is constantly at the receiving end of her mother-in-law and a beleaguered grandfather, Military Uncle, who has been barred from interacting with his grandchild make up the...",
+      "release_date": "2008-10-10"
+    },
+    {
+      "vote_count": 0,
+      "id": 507531,
+      "video": false,
+      "vote_average": 0,
+      "title": "Hello & Goodbye",
+      "popularity": 6.923399,
+      "poster_path": "/lGTi0Ak7QLCMBnoOxj2WoNOMz0y.jpg",
+      "original_language": "en",
+      "original_title": "Hello & Goodbye",
+      "genre_ids": [],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "With wounds still open from the recent end of their 5 year relationship, Drew and Beth decide to meet up for a quiet dinner at Drew's apartment to help solidify their newly found station as \"just friends\".",
+      "release_date": "2018-03-09"
+    },
+    {
+      "vote_count": 1279,
+      "id": 1924,
+      "video": false,
+      "vote_average": 6.9,
+      "title": "Superman",
+      "popularity": 16.424972,
+      "poster_path": "/n2DOECThGG7h7m5AjLi2Nuh23u1.jpg",
+      "original_language": "en",
+      "original_title": "Superman",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "backdrop_path": "/l4BuWj6RT9fG1idYkj6kTNtP50E.jpg",
+      "adult": false,
+      "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+      "release_date": "1978-12-13"
+    },
+    {
+      "vote_count": 883,
+      "id": 783,
+      "video": false,
+      "vote_average": 7.4,
+      "title": "Gandhi",
+      "popularity": 20.206124,
+      "poster_path": "/2z9A4FSu1YySrhhcuqkdMIXpgyN.jpg",
+      "original_language": "en",
+      "original_title": "Gandhi",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "backdrop_path": "/3PfIfAUzRWYri6nnm8AgjyQePd7.jpg",
+      "adult": false,
+      "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+      "release_date": "1982-11-30"
+    },
+    {
+      "vote_count": 58,
+      "id": 21461,
+      "video": false,
+      "vote_average": 7.7,
+      "title": "Lage Raho Munna Bhai",
+      "popularity": 6.33215,
+      "poster_path": "/pMoC48VphGIfavPi5CPN01wiNIO.jpg",
+      "original_language": "hi",
+      "original_title": "लगे रहो मुन्ना भाई",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "backdrop_path": "/sjGOAiXyTA5IAXYBOmD50Hvn1Xs.jpg",
+      "adult": false,
+      "overview": "A hilarious underworld gangster known as Munna Bhai falls comically in love with a radio host by the name of Jahnvi, who runs an elders' home, which is taken over by an unscrupulous builder, who gets the residents kicked out ironically with the help of Munna's sidekick, Circuit, while Munna is busy romancing Jahnvi elsewhere.",
+      "release_date": "2006-01-01"
+    }
+  ]
+}
